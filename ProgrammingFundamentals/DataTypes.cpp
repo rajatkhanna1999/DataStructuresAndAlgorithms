@@ -60,5 +60,9 @@ int main()
 
     //If we want to typecast an integer to charcter,
     //It is done by (char)a where a is integer to be typecasted
+
+    unsigned int a = -1;
+
+    cout << a << endl;
 }
 
